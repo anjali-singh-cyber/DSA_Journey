@@ -2,10 +2,10 @@
 
 ## 📊 Progress
 
-- Total Problems Solved: 213
+- Total Problems Solved: 214
 - 🟢 Easy: 122
 - 🟡 Medium: 77
-- 🔴 Hard: 14
+- 🔴 Hard: 15
 
 ---
 
