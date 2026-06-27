@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-- Total Problems Solved: 216
+- Total Problems Solved: 218
 - 🟢 Easy: 122
-- 🟡 Medium: 78
-- 🔴 Hard: 16
+- 🟡 Medium: 79
+- 🔴 Hard: 17
 
 ---
 
-Last Updated: 26 June 2026
+Last Updated: 28 June 2026
